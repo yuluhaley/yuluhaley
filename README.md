@@ -1,16 +1,15 @@
-## Hi there 👋
+## 👋 Hi, I’m Haley
 
-<!--
-**yuluhaley/yuluhaley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📊 Data & Analytics enthusiast with a strong interest in machine learning, deep learning, and turning data into insights.
 
-Here are some ideas to get you started:
+💼 My experience spans data analysis, business intelligence, and applied machine learning, building end-to-end analytics solutions from data preparation and modeling to visualization and decision support.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🤖 Tools & Skills:
+- Python, R, SAS, SQL, IBM Modeler, Power BI
+- Machine Learning (regression, clustering, time series forecasting)
+- Deep Learning
+- Data visualization & storytelling
+
+💡 I enjoy working on problems where data helps explain **what happened, why it happened, and what to do next**.
+
+🌱 Currently focused on growing my skills in analytics, ML, and decision-support systems.
